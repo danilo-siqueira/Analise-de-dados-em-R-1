@@ -3,6 +3,6 @@ Repositório "forkado" da Organização criada para a disciplina "Introdução a
 Scripts em R feitos por mim para a resolução de exercicios de Análise de Dados.
 
 ### Pastas:
-  Dados: dados no formato excel
-  Codigos: scripts em R
-  Graficos: todos os gráficos gerados
+    Dados: dados no formato excel
+    Codigos: scripts em R
+    Graficos: todos os gráficos gerados
